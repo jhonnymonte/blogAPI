@@ -4,7 +4,7 @@ API Blog
 realized with django Django rest Framework
 the project includes a user registration and user creation.
 CRUD of blog post
-post upload from API or from django admin
+CRUD from API or from django admin
 token authorization
 documentation by swagger
 
